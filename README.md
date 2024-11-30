@@ -3,6 +3,8 @@
 ## Introduction
 Welcome to **EcoQuest**! We are excited to share our project, which merges entertainment with environmental education. Inspired by the urgent challenges of sustainable development, EcoQuest is a storyline-driven adventure that encourages players to consider their ecological footprint and take action for a sustainable future.
 
+![Timeline 2 (1)](https://github.com/user-attachments/assets/479c1f4b-f8ff-45d0-bb23-a504ba915abd)
+
 ## Game Concept
 EcoQuest begins with ordinary characters living peaceful lives. However, as they sleep, they mysteriously time-travel to a future where ecosystems have collapsed, biodiversity has vanished, and the atmosphere is so compromised that people must wear masks. In this dystopian future, reaching the age of 30 is rare unless one is exceptionally healthy.
 
@@ -25,6 +27,8 @@ The game features a repeating cycle: after completing tasks in the present, play
 ## Technologies Used
 - **Unity**: The game is built using the Unity engine.
 - **C#**: The primary programming language used to develop the game.
+- **Asset Pack**: https://pixel-boy.itch.io/ninja-adventure-asset-pack
+- **GIMP**
 
 ## Goal of the Game
 EcoQuest’s ultimate message is clear: **small, incremental actions today can lead to a more sustainable tomorrow**. By reducing carbon footprints, conserving biodiversity, and focusing on eco-friendly practices, we can collectively ensure a healthier planet for future generations.
@@ -46,4 +50,3 @@ If you have any questions or want to get in touch, feel free to reach out to us.
 
 ### License
 EcoQuest is open-source under the MIT LICENSE.
-
